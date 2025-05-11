@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">CLOTHOPIA</h3>
+            <h3 className="text-lg font-semibold mb-4">THOKO</h3>
             <p className="text-primary-foreground/80 max-w-xs">
               Your destination for modern, sustainable fashion that doesn't compromise on style.
             </p>
@@ -47,7 +47,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-6 text-sm text-primary-foreground/60">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p>&copy; {new Date().getFullYear()} Clothopia. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Thoko. All rights reserved.</p>
             <div className="flex space-x-4 mt-4 md:mt-0">
               <Link to="/privacy" className="hover:text-primary-foreground">Privacy Policy</Link>
               <Link to="/terms" className="hover:text-primary-foreground">Terms of Service</Link>

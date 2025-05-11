@@ -5,7 +5,7 @@ export const products: Product[] = [
   {
     id: 1,
     name: "Classic White T-Shirt",
-    price: 29.99,
+    price: 2329.99,
     category: "t-shirts",
     image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Essential white t-shirt made from premium cotton for everyday comfort."
@@ -13,7 +13,7 @@ export const products: Product[] = [
   {
     id: 2,
     name: "Slim-Fit Black Jeans",
-    price: 59.99,
+    price: 2059.99,
     category: "pants",
     image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Modern slim-fit black jeans with stretchy comfort and classic style."
@@ -21,7 +21,7 @@ export const products: Product[] = [
   {
     id: 3,
     name: "Casual Denim Jacket",
-    price: 89.99,
+    price: 1089.99,
     category: "outerwear",
     image: "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Versatile denim jacket that pairs with almost any outfit."
@@ -29,7 +29,7 @@ export const products: Product[] = [
   {
     id: 4,
     name: "Summer Floral Dress",
-    price: 49.99,
+    price: 1949.99,
     category: "dresses",
     image: "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Light and breezy floral dress perfect for summer days."
@@ -37,7 +37,7 @@ export const products: Product[] = [
   {
     id: 5,
     name: "Athletic Performance Hoodie",
-    price: 75.99,
+    price: 1875.99,
     category: "activewear",
     image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Technical performance hoodie designed for workouts and casual wear."
@@ -45,7 +45,7 @@ export const products: Product[] = [
   {
     id: 6,
     name: "Wool Winter Coat",
-    price: 159.99,
+    price: 3159.99,
     category: "outerwear",
     image: "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Premium wool coat to keep you stylish and warm during winter months."
@@ -53,7 +53,7 @@ export const products: Product[] = [
   {
     id: 7,
     name: "Vintage Logo Sweatshirt",
-    price: 65.99,
+    price: 3465.99,
     category: "sweatshirts",
     image: "https://images.unsplash.com/photo-1572307480813-ceb0e59d8325?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Comfortable sweatshirt with a retro logo design."
@@ -61,7 +61,7 @@ export const products: Product[] = [
   {
     id: 8,
     name: "Linen Summer Shirt",
-    price: 45.99,
+    price: 8945.99,
     category: "shirts",
     image: "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     description: "Breathable linen shirt ideal for hot summer days."

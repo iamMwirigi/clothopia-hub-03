@@ -25,7 +25,7 @@ const Navbar = () => {
           <Button variant="ghost" size="icon" className="md:hidden" onClick={toggleMenu}>
             {isMenuOpen ? <X size={20} /> : <Menu size={20} />}
           </Button>
-          <Link to="/" className="text-xl font-bold">CLOTHOPIA</Link>
+          <Link to="/" className="text-xl font-bold">Thoko</Link>
         </div>
 
         {/* Desktop Navigation */}
